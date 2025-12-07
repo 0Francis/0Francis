@@ -4,7 +4,7 @@
 ### Product Engineer • Systems Architect • Clean Energy Innovator
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+digital+systems+that+create+impact;Transforming+ideas+into+functional+prototypes;Powering+sustainable+energy+solutions;Engineering+for+scale+and+efficiency" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Building+digital+systems+that+create+impact;Transforming+ideas+into+functional+prototypes;Powering+sustainable+energy+solutions;Engineering+for+scale+and+efficiency" alt="Typing SVG" />
 </p>
 
 </div>
@@ -24,23 +24,13 @@ I'm a full-stack product engineer passionate about building systems that solve r
 
 ## 📊 Core Expertise
 
-### **Product Development**
-- Product Strategy & Roadmapping
-- UI/UX Design & Prototyping
-- MVP Development & Iteration
-- User Research & Validation
+<div align="center">
 
-### **Technical Architecture**
-- System Design & Microservices
-- Cloud Infrastructure & DevOps
-- API Design & Integration
-- Database Architecture & Optimization
+| Product Development | Technical Architecture | Specialized Domains |
+| :--- | :--- | :--- |
+| **Product Strategy & Roadmapping**<br>**UI/UX Design & Prototyping**<br>**MVP Development & Iteration**<br>**User Research & Validation**<br>**Agile & Scrum Methodologies** | **System Design & Microservices**<br>**Cloud Infrastructure & DevOps**<br>**API Design & Integration**<br>**Database Architecture & Optimization**<br>**Performance & Security** | **Clean Energy & IoT Solutions**<br>**Hardware-Software Integration**<br>**Mobile-First Development**<br>**Real-time Systems**<br>**Cross-platform Applications** |
 
-### **Specialized Domains**
-- Clean Energy & IoT Solutions
-- Hardware-Software Integration
-- Mobile-First Development
-- Real-time Systems
+</div>
 
 ---
 
@@ -48,22 +38,35 @@ I'm a full-stack product engineer passionate about building systems that solve r
 
 ### **Languages & Platforms**
 <div align="center">
-  
-| Frontend | Backend | Mobile | Database |
-|----------|---------|--------|----------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
 
-### **Cloud & DevOps**
+| Frontend | Backend | Mobile | Database & ORM |
+|----------|---------|--------|----------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+
+### **Cloud, DevOps & Deployment**
+<div align="center">
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### **Tools & Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
+
+### **Development Tools & IoT**
+<div align="center">
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -87,23 +90,23 @@ I'm a full-stack product engineer passionate about building systems that solve r
 ## 🤝 Collaboration Opportunities
 
 ### **Looking to Collaborate On**
-- Impact-driven tech projects with real-world applications
-- Clean energy and sustainable technology innovations
-- Digital tools that solve problems for underserved communities
-- Systems that require strategic architecture and thoughtful design
+Impact-driven tech projects with real-world applications  
+Clean energy and sustainable technology innovations  
+Digital tools that solve problems for underserved communities  
+Systems that require strategic architecture and thoughtful design  
 
 ### **Seeking Help With**
-- Large-scale deployment strategies and optimization
-- Strategic partnerships for BARQATA and RentMate
-- Hardware-IoT integration challenges
-- Growth strategy and market expansion
+Large-scale deployment strategies and optimization  
+Strategic partnerships for BARQATA and RentMate  
+Hardware-IoT integration challenges  
+Growth strategy and market expansion  
 
 ### **Let's Discuss**
-- Product design principles and user-centric development
-- Scalable system architecture patterns
-- Early-stage startup challenges and strategies
-- iOS development workflows and best practices
-- Prototyping techniques and rapid iteration
+Product design principles and user-centric development  
+Scalable system architecture patterns  
+Early-stage startup challenges and strategies  
+iOS development workflows and best practices  
+Prototyping techniques and rapid iteration  
 
 ---
 
@@ -112,9 +115,9 @@ I'm a full-stack product engineer passionate about building systems that solve r
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciswainaina05/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://franciskamauportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0Francis)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.kamauw@outlook.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -145,8 +148,7 @@ I'm a full-stack product engineer passionate about building systems that solve r
 ---
   
 ![](https://komarev.com/ghpvc/?username=0Francis&color=22C55E&style=flat-square&label=PROFILE+VIEWS)
-[![wakatime](https://wakatime.com/badge/user/yourusername.svg)](https://wakatime.com/@yourusername)
 
-*Last Updated: $(date)*
+*Last Updated: December 7, 2025*
 
 </div>

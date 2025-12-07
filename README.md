@@ -1,21 +1,152 @@
-# 💫 About Me:
-I am currently working on:<br>Building seamless digital systems and energy-focused solutions, including BARQATA’s clean-energy platform for ASAL communities and RentMate, a rental management ecosystem designed for efficiency and scale.<br><br>I am looking to collaborate on:<br>Impact-driven tech projects, clean-energy innovation, and digital tools that solve real problems for real people. If it demands strategy, design, or system architecture, I’m in.<br><br>I am looking for help with:<br>Refining large-scale deployments, securing partnerships, and expanding the technical infrastructure for both BARQATA and RentMate. If you play in hardware integrations, IoT, or growth strategy, I’d love your brain.<br><br>Ask me about:<br>Product design, systems architecture, partnerships, early-stage startups, iOS development workflows, or turning rough ideas into functional prototypes.<br><br>Fun fact:<br>I can go from pitching investors to writing introspective poetry to shredding on a guitar — all before breakfast, and all with the same intensity.
+<div align="center">
 
+# 🚀 Francis Wainaina
+### Product Engineer • Systems Architect • Clean Energy Innovator
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciswainaina05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:francis.kamauw@outlook.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+digital+systems+that+create+impact;Transforming+ideas+into+functional+prototypes;Powering+sustainable+energy+solutions;Engineering+for+scale+and+efficiency" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0Francis&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0Francis&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Francis&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0Francis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a full-stack product engineer passionate about building systems that solve real-world problems. With expertise spanning from hardware integrations to scalable digital platforms, I focus on creating sustainable solutions that empower communities and drive innovation.
+
+### 🎯 Current Focus
+- **BARQATA**: Developing clean-energy platforms for ASAL communities
+- **RentMate**: Building a rental management ecosystem for efficiency and scale
+- **Digital Systems**: Creating seamless, scalable digital infrastructure
+
+---
+
+## 📊 Core Expertise
+
+### **Product Development**
+- Product Strategy & Roadmapping
+- UI/UX Design & Prototyping
+- MVP Development & Iteration
+- User Research & Validation
+
+### **Technical Architecture**
+- System Design & Microservices
+- Cloud Infrastructure & DevOps
+- API Design & Integration
+- Database Architecture & Optimization
+
+### **Specialized Domains**
+- Clean Energy & IoT Solutions
+- Hardware-Software Integration
+- Mobile-First Development
+- Real-time Systems
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Platforms**
+<div align="center">
+  
+| Frontend | Backend | Mobile | Database |
+|----------|---------|--------|----------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Tools & Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+| | |
+|:---:|:---:|
+| **GitHub Stats** | **Most Used Languages** |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Francis&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=ffffff&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0Francis&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=ffffff&langs_count=8&hide=html,css) |
+| **GitHub Streak** | **Contribution Graph** |
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=0Francis&theme=dark&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22C55E&sideLabels=ffffff&dates=6B7280) | <img src="https://github-readme-activity-graph.vercel.app/graph?username=0Francis&theme=react-dark&hide_border=true&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF&area=true&area_color=22C55E&custom_title=Contribution%20Graph" alt="Contribution Graph"> |
+
+</div>
+
+---
+
+## 🤝 Collaboration Opportunities
+
+### **Looking to Collaborate On**
+- Impact-driven tech projects with real-world applications
+- Clean energy and sustainable technology innovations
+- Digital tools that solve problems for underserved communities
+- Systems that require strategic architecture and thoughtful design
+
+### **Seeking Help With**
+- Large-scale deployment strategies and optimization
+- Strategic partnerships for BARQATA and RentMate
+- Hardware-IoT integration challenges
+- Growth strategy and market expansion
+
+### **Let's Discuss**
+- Product design principles and user-centric development
+- Scalable system architecture patterns
+- Early-stage startup challenges and strategies
+- iOS development workflows and best practices
+- Prototyping techniques and rapid iteration
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciswainaina05/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis.kamauw@outlook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 💡 Quick Facts
+
+<div align="center">
+
+| **Professional** | **Personal** |
+|------------------|--------------|
+| 🎯 Product-first mindset | 🎸 Avid guitarist & music enthusiast |
+| 🏗️ Systems thinker | 📝 Writes introspective poetry |
+| 🔄 Rapid prototyper | ⚡ Multidisciplinary creative |
+| 🤝 Collaborative leader | 🌱 Continuous learner |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+*I can go from pitching investors to writing introspective poetry to shredding on a guitar — all before breakfast, and all with the same intensity.*
+
+**"Quality is not an act, it is a habit." – Aristotle**
+
+---
+  
+![](https://komarev.com/ghpvc/?username=0Francis&color=22C55E&style=flat-square&label=PROFILE+VIEWS)
+[![wakatime](https://wakatime.com/badge/user/yourusername.svg)](https://wakatime.com/@yourusername)
+
+*Last Updated: $(date)*
+
+</div>

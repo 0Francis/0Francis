@@ -28,7 +28,7 @@ I'm a full-stack product engineer passionate about building systems that solve r
 
 | Product Development | Technical Architecture | Specialized Domains |
 | :--- | :--- | :--- |
-| **Product Strategy & Roadmapping**<br>**UI/UX Design & Prototyping**<br>**MVP Development & Iteration**<br>**User Research & Validation**<br>**Agile & Scrum Methodologies** | **System Design & Microservices**<br>**Cloud Infrastructure & DevOps**<br>**API Design & Integration**<br>**Database Architecture & Optimization**<br>**Performance & Security** | **Clean Energy & IoT Solutions**<br>**Hardware-Software Integration**<br>**Mobile-First Development**<br>**Real-time Systems**<br>**Cross-platform Applications** |
+| **Product Strategy & Roadmapping**<br>**UI/UX Design & Prototyping**<br>**MVP Development & Iteration**<br>**User Research & Validation**<br>**Agile & Scrum Methodologies** | **System Design & Microservices**<br>**API Design & Integration**<br>**Database Architecture & Optimization**<br>**Performance & Security** | **Clean Energy & IoT Solutions**<br>**Hardware-Software Integration**<br>**Mobile-First Development**<br>**Real-time Systems**<br>**Cross-platform Applications** |
 
 </div>
 
@@ -141,7 +141,7 @@ Prototyping techniques and rapid iteration
 <div align="center">
 
 ### ⚡ Fun Fact
-*I can go from pitching investors to writing introspective poetry to shredding on a guitar — all before breakfast, and all with the same intensity.*
+*I can go from pitching investors to writing introspective poetry to shredding on a guitar; all before breakfast, and all with the same intensity.*
 
 **"Quality is not an act, it is a habit." – Aristotle**
 

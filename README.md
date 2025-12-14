@@ -141,7 +141,7 @@ Prototyping techniques and rapid iteration
 <div align="center">
 
 ### ⚡ Fun Fact
-*I can go from pitching investors to writing introspective poetry to shredding on a guitar; all before breakfast, and all with the same intensity.*
+*I can go from pitching investors to writing introspective poetry to énjoying a guitar; all before breakfast, and all with the same intensity.*
 
 **"Quality is not an act, it is a habit." – Aristotle**
 

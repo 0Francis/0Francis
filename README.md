@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Francis Wainaina
-### Product Engineer • Systems Architect • Clean Energy Innovator
+### Software Engineer • Systems Architect • Clean Energy Innovator
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Building+digital+systems+that+create+impact;Transforming+ideas+into+functional+prototypes;Powering+sustainable+energy+solutions;Engineering+for+scale+and+efficiency" alt="Typing SVG" />
